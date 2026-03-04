@@ -5,6 +5,15 @@
 > 并以 **SSE 流式推送** 实时展示各阶段结果，最终生成 ECharts 可视化图表与 Markdown 分析报告。
 
 ---
+## 网页展示
+
+
+
+https://github.com/user-attachments/assets/14dd7c2a-c771-467f-8315-ac682d323e0a
+
+
+
+---
 
 ## 目录
 
@@ -396,3 +405,4 @@ business_agent/
 │   └── vite.config.ts
 └── README.md
 ```
+
